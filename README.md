@@ -18,7 +18,7 @@
 🔥 AI and chatbot devloper
 
 
-✨ Favorite Tech: AI TOOL CHATBOT MACHINE LEARING
+✨ Favorite Tech: AI TOOL CHATBOT MACHINE LEARNING
 
 📓 I’m currently learning Generative AI AND CHATBOT😎
 
