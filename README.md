@@ -24,7 +24,7 @@
 
 📧 aaashirsiddiqui@gmail.com
 
-🎨 Portfolio: https://github.com/aashirsohail104
+🎨 Portfolio: https://aashir-portfolio-self.vercel.app/
 
 💼 LinkedIn: https://www.linkedin.com/in/aashir-siddiqui-86581b2a4
 
