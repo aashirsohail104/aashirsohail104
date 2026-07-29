@@ -133,20 +133,17 @@ I'm an **AI Engineer** and **Full-Stack Developer** who builds production-ready 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashirsohail104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=eab676&icon_color=eab676" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashirsohail104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=eab676" height="165"/>
+  <img src="https://gh-readme-stats.vercel.app/api?username=aashirsohail104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=eab676&icon_color=eab676" height="165"/>
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs?username=aashirsohail104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=eab676" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashirsohail104&theme=tokyonight&hide_border=true&background=0D1117&ring=eab676&fire=eab676&currStreakLabel=eab676" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aashirsohail104&theme=tokyonight&hide_border=true&background=0D1117&ring=eab676&fire=eab676&currStreakLabel=eab676" width="70%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aashirsohail104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" width="80%"/>
-</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aashirsohail104&label=Profile%20Views&color=eab676&style=flat"/>
+  <img src="https://hits.sh/github.com/aashirsohail104/hits.svg?style=flat-square&label=Profile%20Views&color=eab676"/>
 </p>
 
 ---
@@ -154,11 +151,11 @@ I'm an **AI Engineer** and **Full-Stack Developer** who builds production-ready 
 <div align="center">
   <h3>🤝 Let's Connect</h3>
   <p>
-    <a href="https://aashir-portfolio-self.vercel.app/">Portfolio</a> •
-    <a href="https://www.linkedin.com/in/aashir-siddiqui-86581b2a4">LinkedIn</a> •
-    <a href="https://github.com/aashirsohail104">GitHub</a> •
-    <a href="https://www.instagram.com/aashirsiddiqui007/">Instagram</a> •
-    <a href="mailto:aaashirsiddiqui@gmail.com">Email</a>
+    <a href="https://aashir-portfolio-self.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/aashir-siddiqui-86581b2a4"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/aashirsohail104"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://www.instagram.com/aashirsiddiqui007/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="mailto:aaashirsiddiqui@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
   <p>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=eab676&height=80&section=footer" width="100%"/>
